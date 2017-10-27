@@ -1,0 +1,44 @@
+#Heading{
+  text-align: center;
+  font-family: 'Modak', cursive;
+
+}
+ table {
+  margin: auto;
+
+ }
+#box1{
+
+width:100px;
+height: 200px;
+background-color: #60291D;
+
+
+}
+
+#box2{
+  
+
+width:100px;
+height: 200px;
+background-color: #7C251F;
+
+}
+#box3{
+
+width:100px;
+height: 200px;
+background-color: #96373A;
+}
+#box4{
+
+width:100px;
+height: 200px;
+background-color: #C66661;
+}
+#box5{
+
+width:100px;
+height:200px;
+background-color: #BC8782;
+}
